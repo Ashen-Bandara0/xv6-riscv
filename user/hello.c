@@ -3,7 +3,7 @@
 #include "user/user.h"
 
 int main () {
-    printf("Hello World ! n");
+    printf("Hello World! \n");
     printf("Ashen Bandara");
     exit(0);
 }
